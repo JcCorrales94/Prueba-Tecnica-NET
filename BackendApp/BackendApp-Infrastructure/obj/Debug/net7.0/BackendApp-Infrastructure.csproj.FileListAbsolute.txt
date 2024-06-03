@@ -1,0 +1,17 @@
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\bin\Debug\net7.0\BackendApp-Infrastructure.deps.json
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\bin\Debug\net7.0\BackendApp-Infrastructure.runtimeconfig.json
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\bin\Debug\net7.0\BackendApp-Infrastructure.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\bin\Debug\net7.0\BackendApp-Infrastructure.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\bin\Debug\net7.0\BackendApp-Domain.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\bin\Debug\net7.0\BackendApp-Domain.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.csproj.AssemblyReference.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.AssemblyInfoInputs.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.AssemblyInfo.cs
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.csproj.CoreCompileInputs.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.csproj.CopyComplete
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\refint\BackendApp-Infrastructure.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\BackendApp-Infrastructure.genruntimeconfig.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Infrastructure\obj\Debug\net7.0\ref\BackendApp-Infrastructure.dll
