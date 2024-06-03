@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp\\BackendApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Application\\BackendApp-Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Application\\BackendApp-Application.csproj",
+        "projectName": "BackendApp-Application",
+        "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Application\\BackendApp-Application.csproj",
+        "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
+        "outputPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj": {
+                "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj",
+        "projectName": "BackendApp-Domain",
+        "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj",
+        "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
+        "outputPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Infrastructure\\BackendApp-Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Infrastructure\\BackendApp-Infrastructure.csproj",
+        "projectName": "BackendApp-Infrastructure",
+        "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Infrastructure\\BackendApp-Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
+        "outputPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj": {
+                "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp\\BackendApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp\\BackendApp.csproj",
+        "projectName": "BackendApp",
+        "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp\\BackendApp.csproj",
+        "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
+        "outputPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Application\\BackendApp-Application.csproj": {
+                "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Application\\BackendApp-Application.csproj"
+              },
+              "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj": {
+                "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Domain\\BackendApp-Domain.csproj"
+              },
+              "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Infrastructure\\BackendApp-Infrastructure.csproj": {
+                "projectPath": "D:\\Rocio\\Documents\\GitHub\\Prueba-Tecnica-NET\\BackendApp\\BackendApp-Infrastructure\\BackendApp-Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

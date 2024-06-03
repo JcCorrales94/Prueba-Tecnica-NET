@@ -1,0 +1,15 @@
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\bin\Debug\net7.0\BackendApp-Application.deps.json
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\bin\Debug\net7.0\BackendApp-Application.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\bin\Debug\net7.0\BackendApp-Application.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\bin\Debug\net7.0\BackendApp-Domain.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\bin\Debug\net7.0\BackendApp-Domain.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.csproj.AssemblyReference.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.AssemblyInfoInputs.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.AssemblyInfo.cs
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.csproj.CoreCompileInputs.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.csproj.CopyComplete
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\refint\BackendApp-Application.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\BackendApp-Application.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Application\obj\Debug\net7.0\ref\BackendApp-Application.dll

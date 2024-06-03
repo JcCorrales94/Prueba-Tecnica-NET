@@ -1,0 +1,12 @@
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\bin\Debug\net7.0\BackendApp-Domain.deps.json
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\bin\Debug\net7.0\BackendApp-Domain.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\bin\Debug\net7.0\BackendApp-Domain.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\BackendApp-Domain.csproj.AssemblyReference.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\BackendApp-Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\BackendApp-Domain.AssemblyInfoInputs.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\BackendApp-Domain.AssemblyInfo.cs
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\BackendApp-Domain.csproj.CoreCompileInputs.cache
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\BackendApp-Domain.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\refint\BackendApp-Domain.dll
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\BackendApp-Domain.pdb
+D:\Rocio\Documents\GitHub\Prueba-Tecnica-NET\BackendApp\BackendApp-Domain\obj\Debug\net7.0\ref\BackendApp-Domain.dll
